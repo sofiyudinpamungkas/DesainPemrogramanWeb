@@ -1,0 +1,21 @@
+body{
+    background-color:wheat;
+}
+
+.tampilan{
+    width: 900px;
+    background-color: white;
+    margin:auto;
+    padding: 16px;
+}
+table{
+    width: 95%;
+}
+.opini{
+    background-color: bisque;    
+}
+
+.alumni{
+    background-color: tomato;
+    color: white;
+}
